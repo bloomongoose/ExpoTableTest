@@ -1,0 +1,14 @@
+C:\Users\radee\source\repos\ExponentsPowerTable\ExponentsPowerTable\bin\Debug\netcoreapp3.1\ExponentsPowerTable.exe
+C:\Users\radee\source\repos\ExponentsPowerTable\ExponentsPowerTable\bin\Debug\netcoreapp3.1\ExponentsPowerTable.deps.json
+C:\Users\radee\source\repos\ExponentsPowerTable\ExponentsPowerTable\bin\Debug\netcoreapp3.1\ExponentsPowerTable.runtimeconfig.json
+C:\Users\radee\source\repos\ExponentsPowerTable\ExponentsPowerTable\bin\Debug\netcoreapp3.1\ExponentsPowerTable.runtimeconfig.dev.json
+C:\Users\radee\source\repos\ExponentsPowerTable\ExponentsPowerTable\bin\Debug\netcoreapp3.1\ExponentsPowerTable.dll
+C:\Users\radee\source\repos\ExponentsPowerTable\ExponentsPowerTable\bin\Debug\netcoreapp3.1\ExponentsPowerTable.pdb
+C:\Users\radee\source\repos\ExponentsPowerTable\ExponentsPowerTable\obj\Debug\netcoreapp3.1\ExponentsPowerTable.csproj.AssemblyReference.cache
+C:\Users\radee\source\repos\ExponentsPowerTable\ExponentsPowerTable\obj\Debug\netcoreapp3.1\ExponentsPowerTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radee\source\repos\ExponentsPowerTable\ExponentsPowerTable\obj\Debug\netcoreapp3.1\ExponentsPowerTable.AssemblyInfoInputs.cache
+C:\Users\radee\source\repos\ExponentsPowerTable\ExponentsPowerTable\obj\Debug\netcoreapp3.1\ExponentsPowerTable.AssemblyInfo.cs
+C:\Users\radee\source\repos\ExponentsPowerTable\ExponentsPowerTable\obj\Debug\netcoreapp3.1\ExponentsPowerTable.csproj.CoreCompileInputs.cache
+C:\Users\radee\source\repos\ExponentsPowerTable\ExponentsPowerTable\obj\Debug\netcoreapp3.1\ExponentsPowerTable.dll
+C:\Users\radee\source\repos\ExponentsPowerTable\ExponentsPowerTable\obj\Debug\netcoreapp3.1\ExponentsPowerTable.pdb
+C:\Users\radee\source\repos\ExponentsPowerTable\ExponentsPowerTable\obj\Debug\netcoreapp3.1\ExponentsPowerTable.genruntimeconfig.cache
